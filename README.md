@@ -1,4 +1,4 @@
-# FunkRhythmSection X
+# FunkRhythmSection Songpool
 
 Holgers Vorschläge:
 
