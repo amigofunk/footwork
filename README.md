@@ -1,4 +1,4 @@
-# FunkRhythmSection
+# FunkRhythmSection X
 
 Holgers Vorschläge:
 
@@ -6,7 +6,7 @@ Kool And The Gang - Music Is The Message
 <https://www.youtube.com/watch?v=NxH624LQBe4>
 
 Dyke and the Blazers - Let A Woman Be A Woman
-[https://www.youtube.com/watch?v=BoSGKO9aH9M]
+'<https://www.youtube.com/watch?v=BoSGKO9aH9M>'
 
 Wilbur Bascomb And The Zodiacs - Just A Groove In "G" 
 [https://www.youtube.com/watch?v=vWQDTl2dTB8]
