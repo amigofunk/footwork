@@ -98,7 +98,7 @@ Eddie Bo - Hook And Sling
 Donny Hathaway - Valdez in the Country
 <https://www.youtube.com/watch?v=U-SDYJnwLY4>
 
-Donny hathaway - Little Ghetto Boy
+Donny Hathaway - Little Ghetto Boy
 <https://www.youtube.com/watch?v=sZpD3cTDL9s>
 
 Lee Dorsay - Give It Up 
