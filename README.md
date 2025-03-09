@@ -118,3 +118,43 @@ Curtis Mayfield - Move On Up
 
 Curtis Mayfield - Little Child Running Wild
 <https://www.youtube.com/watch?v=HJkjVfOcIxs>
+
+## Manuel
+
+obsession (manuël original)
+
+just friends (musiq soulchild)
+<https://www.youtube.com/watch?v=cSLIQB1mCfM>
+
+how does it feel (d'angelo)
+<https://www.youtube.com/watch?v=-7hbqxnhzU8>
+
+thinkin bout u (frank ocean)
+<https://www.youtube.com/watch?v=fq18mdh7T-w>
+
+them changes (thundercat)
+<https://www.youtube.com/watch?v=BuzJ5NArvgw>
+
+pony (ginuwine)
+<https://www.youtube.com/watch?v=bdaq9FRaHNc>
+
+best part (daniel caesar)
+<https://www.youtube.com/watch?v=75-Com9Bo_s>
+
+playing games (summer walker)
+<https://www.youtube.com/watch?v=SDSXLkD74KE>
+
+disco yes (tom misch)
+<https://www.youtube.com/watch?v=EXWOJvlDwbU>
+
+it runs through me (tom misch)
+<https://www.youtube.com/watch?v=M1N_wbhAfQ4>
+
+roses (mac ayres)
+<https://www.youtube.com/watch?v=sDJz8PlQX60>
+
+waiting (mac ayres)
+<https://www.youtube.com/watch?v=TmN7VR7fKCY>
+
+easy (mac ayres)
+<https://www.youtube.com/watch?v=PWK8EuUSMSI>
