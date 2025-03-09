@@ -1,6 +1,6 @@
 # Footwork Rhythm Section Songpool
 
-Holger:
+## Holger:
 
 Kool And The Gang - Music Is The Message
 <https://www.youtube.com/watch?v=NxH624LQBe4>
@@ -30,7 +30,7 @@ The J.B.'s And Bobby Byrd - Shake Your Money Maker
 <https://www.youtube.com/watch?v=TsljwYOaVIk>
 
 
-Özgür Vorschläge:
+## Özgür:
 
 Boogaloo Joe Jones - What It Is
 <https://www.youtube.com/watch?v=8PleEvRgGOc>
@@ -62,11 +62,26 @@ Greyboy Allstars - Let The Music Take Your Mind
 Greyboy Allstars - Fire Eater
 <https://www.youtube.com/watch?v=cF9yERniEqE>
 
+The JBs - Doing It To Death
+<https://www.youtube.com/watch?v=Zu6s9t0iFSg>
+
+The JBs - It's The JBs Monaurail
+<https://www.youtube.com/watch?v=kZ06_u0jdG0>
+
+Lou Donaldson - Everything I Do Gonna Be Funky
+<https://www.youtube.com/watch?v=n5GhMvCINIA>
+
 Sugarman 3 - Turtle Walk
 <https://www.youtube.com/watch?v=SU8Bx1XPbjE>
 
 Archie Bell & The Drells - Tighten up 
 <https://www.youtube.com/watch?v=Wro3bqi4Eb8>
+
+Donny Hathaway - Valdez in the Country
+<https://www.youtube.com/watch?v=U-SDYJnwLY4>
+
+Donny hathaway - Little Ghetto Boy
+<https://www.youtube.com/watch?v=sZpD3cTDL9s>
 
 Eddie Bo - Hook And Sling
 <https://www.youtube.com/watch?v=QFd2YnMOUxY>
@@ -74,16 +89,17 @@ Eddie Bo - Hook And Sling
 Lee Dorsay - Give It Up 
 <https://www.youtube.com/watch?v=6RawnDMeCrQ>
 
-Lou Donaldson - Everything I Do Gonna Be Funky
-<https://www.youtube.com/watch?v=n5GhMvCINIA>
-
 Lee Dorsay - Get Out My Life Woman
 <https://www.youtube.com/watch?v=5TfaD1Dn0MY>
 
-Curtis Mayfield - Move On Up
-<>
-<>
-<>
-<>
-<>
+Bill Withers - Use Me
+<https://www.youtube.com/watch?v=NuYDKzky4z0>
 
+Bill Withers - Lonley Town Lonley Street
+<https://www.youtube.com/watch?v=h-UT7nnX4c4>
+
+Curtis Mayfield - Move On Up
+<https://www.youtube.com/watch?v=6Z66wVo7uNw>
+
+Curtis Mayfield - Little Child Running Wild
+<https://www.youtube.com/watch?v=HJkjVfOcIxs>
