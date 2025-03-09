@@ -1,6 +1,6 @@
 # Footwork Rhythm Section Songpool
 
-## Holger:
+## Holger
 
 Kool And The Gang - Music Is The Message
 <https://www.youtube.com/watch?v=NxH624LQBe4>
@@ -30,7 +30,7 @@ The J.B.'s And Bobby Byrd - Shake Your Money Maker
 <https://www.youtube.com/watch?v=TsljwYOaVIk>
 
 
-## Özgür:
+## Özgür
 
 The Meters - Cissy Strut
 <https://www.youtube.com/watch?v=MXI5Nuz6OHg>
@@ -118,6 +118,10 @@ Curtis Mayfield - Move On Up
 
 Curtis Mayfield - Little Child Running Wild
 <https://www.youtube.com/watch?v=HJkjVfOcIxs>
+
+## Philipp
+
+## Andy
 
 ## Manuel
 
