@@ -32,6 +32,9 @@ The J.B.'s And Bobby Byrd - Shake Your Money Maker
 
 ## Özgür:
 
+The Meters - Cissy Strut
+<https://www.youtube.com/watch?v=MXI5Nuz6OHg>
+
 Boogaloo Joe Jones - What It Is
 <https://www.youtube.com/watch?v=8PleEvRgGOc>
 
@@ -44,11 +47,17 @@ Boogaloo Joe Jones - Right On
 Boogaloo Joe Jones - Boogaloo Joe
 <https://www.youtube.com/watch?v=VujyqfIx6jI>
 
+Grant Green - Cantaloupe Woman
+<https://www.youtube.com/watch?v=GygQ2OC_GvI>
+
 Grant Green - Ain't It Funky Now
 <https://www.youtube.com/watch?v=GLBTSrD42QY>
 
-Grant Green - Cantaloupe Woman
-<https://www.youtube.com/watch?v=GygQ2OC_GvI>
+Grant Green - Eease Back
+<https://www.youtube.com/watch?v=LqvcR0NFHgc>
+
+Grant Green - Upshot
+<https://www.youtube.com/watch?v=ZWhGQwOOb2w>
 
 Kool & The Gang - Give it up
 <https://www.youtube.com/watch?v=XUXkgxTa64c>
@@ -68,6 +77,12 @@ The JBs - Doing It To Death
 The JBs - It's The JBs Monaurail
 <https://www.youtube.com/watch?v=kZ06_u0jdG0>
 
+Herbie Mann - Coming Home Baby
+<https://www.youtube.com/watch?v=fETDwHtTEqk>
+
+King Curtis - Memphis Soul Stew
+<https://www.youtube.com/watch?v=4Sm9n-6hy6M>
+
 Lou Donaldson - Everything I Do Gonna Be Funky
 <https://www.youtube.com/watch?v=n5GhMvCINIA>
 
@@ -77,14 +92,14 @@ Sugarman 3 - Turtle Walk
 Archie Bell & The Drells - Tighten up 
 <https://www.youtube.com/watch?v=Wro3bqi4Eb8>
 
+Eddie Bo - Hook And Sling
+<https://www.youtube.com/watch?v=QFd2YnMOUxY>
+
 Donny Hathaway - Valdez in the Country
 <https://www.youtube.com/watch?v=U-SDYJnwLY4>
 
 Donny hathaway - Little Ghetto Boy
 <https://www.youtube.com/watch?v=sZpD3cTDL9s>
-
-Eddie Bo - Hook And Sling
-<https://www.youtube.com/watch?v=QFd2YnMOUxY>
 
 Lee Dorsay - Give It Up 
 <https://www.youtube.com/watch?v=6RawnDMeCrQ>
