@@ -53,7 +53,7 @@ Grant Green - Cantaloupe Woman
 Grant Green - Ain't It Funky Now
 <https://www.youtube.com/watch?v=GLBTSrD42QY>
 
-Grant Green - Eease Back
+Grant Green - Ease Back
 <https://www.youtube.com/watch?v=LqvcR0NFHgc>
 
 Grant Green - Upshot
@@ -77,9 +77,6 @@ The JBs - Doing It To Death
 The JBs - It's The JBs Monaurail
 <https://www.youtube.com/watch?v=kZ06_u0jdG0>
 
-Herbie Mann - Coming Home Baby
-<https://www.youtube.com/watch?v=fETDwHtTEqk>
-
 King Curtis - Memphis Soul Stew
 <https://www.youtube.com/watch?v=4Sm9n-6hy6M>
 
@@ -89,76 +86,68 @@ Lou Donaldson - Everything I Do Gonna Be Funky
 Sugarman 3 - Turtle Walk
 <https://www.youtube.com/watch?v=SU8Bx1XPbjE>
 
-Archie Bell & The Drells - Tighten up 
-<https://www.youtube.com/watch?v=Wro3bqi4Eb8>
+Richard 'Groove' Holmes - Onsaya Joy
+<https://www.youtube.com/watch?v=3jZZ1-xEjTA>
 
-Eddie Bo - Hook And Sling
-<https://www.youtube.com/watch?v=QFd2YnMOUxY>
+Richard Groove Holmes - Red Onion
+<https://www.youtube.com/watch?v=33sIPfQHe1A>
 
-Donny Hathaway - Valdez in the Country
-<https://www.youtube.com/watch?v=U-SDYJnwLY4>
+Mighty Imperials - Kick The Blanket
+<https://www.youtube.com/watch?v=KR4FbgPm44I>
 
-Donny Hathaway - Little Ghetto Boy
-<https://www.youtube.com/watch?v=sZpD3cTDL9s>
-
-Lee Dorsay - Give It Up 
-<https://www.youtube.com/watch?v=6RawnDMeCrQ>
-
-Lee Dorsay - Get Out My Life Woman
-<https://www.youtube.com/watch?v=5TfaD1Dn0MY>
-
-Bill Withers - Use Me
-<https://www.youtube.com/watch?v=NuYDKzky4z0>
-
-Bill Withers - Lonley Town Lonley Street
-<https://www.youtube.com/watch?v=h-UT7nnX4c4>
-
-Curtis Mayfield - Move On Up
-<https://www.youtube.com/watch?v=6Z66wVo7uNw>
-
-Curtis Mayfield - Little Child Running Wild
-<https://www.youtube.com/watch?v=HJkjVfOcIxs>
 
 ## Philipp
 
+Ramsey Lewis - Bold And Black
+<https://www.youtube.com/watch?v=9dji_CP0yrg>
+
+The JBs - Soul Power 74
+<https://www.youtube.com/watch?v=zL0qJ9VLG2A>
+
+The JBs - Pass The Peas
+<https://www.youtube.com/watch?v=qMu5SAVkuRM>
+
+Dyke & The Blazers - Stuff 
+<https://www.youtube.com/watch?v=Ow5OBldDL7c>
+
+Donny Hathaway - The Ghetto
+<https://www.youtube.com/watch?v=XealDvQwim8>
+
+
 ## Andy
 
-## Manuel
+The Bamboos - Tighten Up
+<https://www.youtube.com/watch?v=Xh1BoYdNGMc>
 
-obsession (manuël original)
+Nicole Willis - Holdin on
+<https://www.youtube.com/watch?v=SORSPxKUH10>
 
-just friends (musiq soulchild)
-<https://www.youtube.com/watch?v=cSLIQB1mCfM>
+Bernard Wright - Haboglabotribin
+<https://www.youtube.com/watch?v=8dZ0l5mNQ3I>
 
-how does it feel (d'angelo)
-<https://www.youtube.com/watch?v=-7hbqxnhzU8>
+Prince - Sexy M.F.
+<https://www.youtube.com/watch?v=esCtYgcYEFE>
 
-thinkin bout u (frank ocean)
-<https://www.youtube.com/watch?v=fq18mdh7T-w>
+JamesBrown - Cold Sweat 
+<https://www.youtube.com/watch?v=8bztE5IbQOo>
 
-them changes (thundercat)
-<https://www.youtube.com/watch?v=BuzJ5NArvgw>
+James Brown - Soul Power
+<https://www.youtube.com/watch?v=3MsBs9QEwWc>
 
-pony (ginuwine)
-<https://www.youtube.com/watch?v=bdaq9FRaHNc>
+Hot 8 Brass Band - It‘s Real
+<https://www.youtube.com/watch?v=a4ip2Ea34pI>
 
-best part (daniel caesar)
-<https://www.youtube.com/watch?v=75-Com9Bo_s>
+Grover Washington Jr. - Mr Magic
+<https://www.youtube.com/watch?v=a4ip2Ea34pI>
 
-playing games (summer walker)
-<https://www.youtube.com/watch?v=SDSXLkD74KE>
+All the people - Cramp your Style
+<https://www.youtube.com/watch?v=iL70Xw-FteU>
 
-disco yes (tom misch)
-<https://www.youtube.com/watch?v=EXWOJvlDwbU>
+Breakestra - Hit the Floor
+<https://www.youtube.com/watch?v=rRURI_nO7a8>
 
-it runs through me (tom misch)
-<https://www.youtube.com/watch?v=M1N_wbhAfQ4>
+Rufus & Chaka Khan - You got the Love
+<https://www.youtube.com/watch?v=YIrSSivTF8A>
 
-roses (mac ayres)
-<https://www.youtube.com/watch?v=sDJz8PlQX60>
-
-waiting (mac ayres)
-<https://www.youtube.com/watch?v=TmN7VR7fKCY>
-
-easy (mac ayres)
-<https://www.youtube.com/watch?v=PWK8EuUSMSI>
+Leon Bridges - Bad Bad News
+<https://www.youtube.com/watch?v=FJOGT1axUV4>
