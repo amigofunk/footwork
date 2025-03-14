@@ -119,7 +119,7 @@ Donny Hathaway - The Ghetto
 The Bamboos - Tighten Up
 <https://www.youtube.com/watch?v=Xh1BoYdNGMc>
 
-Nicole Willis - Holdin on
+Nicole Willis - Holdin On
 <https://www.youtube.com/watch?v=SORSPxKUH10>
 
 Bernard Wright - Haboglabotribin
@@ -140,14 +140,50 @@ Hot 8 Brass Band - It‘s Real
 Grover Washington Jr. - Mr Magic
 <https://www.youtube.com/watch?v=a4ip2Ea34pI>
 
-All the people - Cramp your Style
+All the people - Cramp Your Style
 <https://www.youtube.com/watch?v=iL70Xw-FteU>
 
-Breakestra - Hit the Floor
+Breakestra - Hit The Floor
 <https://www.youtube.com/watch?v=rRURI_nO7a8>
 
-Rufus & Chaka Khan - You got the Love
+Rufus & Chaka Khan - You Got The Love
 <https://www.youtube.com/watch?v=YIrSSivTF8A>
 
 Leon Bridges - Bad Bad News
 <https://www.youtube.com/watch?v=FJOGT1axUV4>
+
+Smoove & Turrell - Slow Down
+<https://www.youtube.com/watch?v=46DfGQoEpsw>
+
+Sugarman 3 - Take It As It Come
+<https://www.youtube.com/watch?v=BmLk2BPR0ZE>
+
+Charles Wright - Express Yourself
+<https://www.youtube.com/watch?v=jW4VZ5J0fNQ>
+
+Orgone - I Get Lifted
+<https://www.youtube.com/watch?v=pyySCxwxJ8Y>
+
+Poets of Rhythm - North Carolina
+<https://www.youtube.com/watch?v=-w7VbmYehc8>
+
+Alice Russell - Step It Up
+<https://www.youtube.com/watch?v=vApLacePZIw>
+
+Fusik - Cypher Black
+<https://www.youtube.com/watch?v=96BMbhleykc>
+
+Herbie Hancock - Hang Up Yuur Hang Ups
+<https://www.youtube.com/watch?v=d7kRlufrZJo>
+
+Boz Scaggs - Lowdown
+<https://www.youtube.com/watch?v=I-hKBmTAADo>
+
+Banbarra - Shack Up
+<https://www.youtube.com/watch?v=qTu8QCL7soQ>
+
+The Love Unlimited Orchestra - You Gotta Case
+<https://www.youtube.com/watch?v=hVTBGXSB9-0>
+
+Bamboos - Transcend me
+<https://www.youtube.com/watch?v=t4BUDZTDVLc>
