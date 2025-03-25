@@ -2,38 +2,46 @@
 
 ## Prepare for rehearsal
 
-The Bamboos - Tighten Up [F]
+The Bamboos - Tighten Up
 <https://www.youtube.com/watch?v=Xh1BoYdNGMc>
+
+Archie Bell & The Drells - Tighten Up
 <https://www.youtube.com/watch?v=Wro3bqi4Eb8>
+
+Jamiroquai - Tighten Up
 <https://www.youtube.com/watch?v=s6MaVO0oOqU>
 
-The JBs - Soul Power 74 [D]
+The JBs - Soul Power 74 
 <https://www.youtube.com/watch?v=zL0qJ9VLG2A>
+
+James Brown - Soul Power
 <https://www.youtube.com/watch?v=3MsBs9QEwWc>
 
-Donny Hathaway - The Ghetto [Bb]
+Donny Hathaway - The Ghetto
 <https://www.youtube.com/watch?v=XealDvQwim8>
-<https://www.youtube.com/watch?v=KISbimc1wRM>
 
-Boogaloo Joe Jones - Right On [D]
-<https://www.youtube.com/watch?v=Mfezhl9r_5U>
-
-The Meters - Cissy Strut [C]
+The Meters - Cissy Strut
 <https://www.youtube.com/watch?v=MXI5Nuz6OHg>
 
-JamesBrown - Cold Sweat [D]
+The Meters - Funky Miracle
+<https://www.youtube.com/watch?v=xNXJKMpwJeU>
+
+James Brown - Cold Sweat
 <https://www.youtube.com/watch?v=8bztE5IbQOo>
 
-Boogaloo Joe Jones - Confusion [C]
+Boogaloo Joe Jones - Right On
+<https://www.youtube.com/watch?v=Mfezhl9r_5U>
+
+Boogaloo Joe Jones - Confusion 
 <https://www.youtube.com/watch?v=r4W8vmsKiF4>
 
-Boogaloo Joe Jones - What It Is [Dm]
+Boogaloo Joe Jones - What It Is
 <https://www.youtube.com/watch?v=8PleEvRgGOc>
 
-Dyke & The Blazers - Stuff [D]
+Dyke & The Blazers - Stuff
 <https://www.youtube.com/watch?v=Ow5OBldDL7c>
 
-James Brown- Give It Up Or Turn It A Loose
+James Brown - Give It Up Or Turn It A Loose
 <https://www.youtube.com/watch?v=921kqkHOHDo>
 
 The JBs And Bobby Byrd - Shake Your Money Maker
@@ -75,12 +83,8 @@ Bamboos - Transcend Me
 Spanky Wilson - Don't Joke With A Hungry Man
 <https://www.youtube.com/watch?v=YBfGfEVIS_M>
 
-The Meters - Funky Miracle
-<https://www.youtube.com/watch?v=xNXJKMpwJeU>
-
 Footwork - Jam
-Am - C vamp
-FM7 - Em bridge
+Am-C vamp into FM7-Em bridge
 
 # Backseat
 
@@ -124,87 +128,3 @@ Leon Bridges - Bad Bad News
 Boz Scaggs - Lowdown
 <https://www.youtube.com/watch?v=I-hKBmTAADo>
 
-# Leftovers
-
-## Holger
-
-Kool And The Gang - Music Is The Message
-<https://www.youtube.com/watch?v=NxH624LQBe4>
-
-The Winstons - Amen Brother
-<https://www.youtube.com/watch?v=GxZuq57_bYM>
-
-Ripple - I Don’t Know What It Is, But It Sure Is Funky
-<https://www.youtube.com/watch?v=9u-qlQdiC1g>
-
-Booker T. And The MGs - Sing A Simple Song 
-<https://www.youtube.com/watch?v=F0w9_3LFmMc>
-
-Terence Trent D'Arby - Dance Little Sister 
-<https://www.youtube.com/watch?v=rtzYBQTgyBE>
-
-The JBs - Hot Pants Road 
-<https://www.youtube.com/watch?v=0Skm5DzE69k>
-
-## Özgür
-
-Boogaloo Joe Jones - Boogaloo Joe
-<https://www.youtube.com/watch?v=VujyqfIx6jI>
-
-Grant Green - Ease Back
-<https://www.youtube.com/watch?v=LqvcR0NFHgc>
-
-Grant Green - Upshot
-<https://www.youtube.com/watch?v=ZWhGQwOOb2w>
-
-Kool & The Gang - Jungle Boogie
-<https://www.youtube.com/watch?v=QGKiC2suCHQ>
-
-Greyboy Allstars - Let The Music Take Your Mind
-<https://www.youtube.com/watch?v=iJfKHFrpfzw>
-
-Greyboy Allstars - Fire Eater
-<https://www.youtube.com/watch?v=cF9yERniEqE>
-
-The JBs - It's The JBs Monaurail
-<https://www.youtube.com/watch?v=kZ06_u0jdG0>
-
-Lou Donaldson - Everything I Do Gonna Be Funky
-<https://www.youtube.com/watch?v=n5GhMvCINIA>
-
-Richard 'Groove' Holmes - Onsaya Joy
-<https://www.youtube.com/watch?v=3jZZ1-xEjTA>
-
-Richard Groove Holmes - Red Onion
-<https://www.youtube.com/watch?v=33sIPfQHe1A>
-
-Mighty Imperials - Kick The Blanket
-<https://www.youtube.com/watch?v=KR4FbgPm44I>
-
-## Philipp
-
-## Andy
-
-Prince - Sexy M.F.
-<https://www.youtube.com/watch?v=esCtYgcYEFE>
-
-All the people - Cramp Your Style
-<https://www.youtube.com/watch?v=iL70Xw-FteU>
-
-Smoove & Turrell - Slow Down
-<https://www.youtube.com/watch?v=46DfGQoEpsw>
-
-Sugarman 3 - Take It As It Come
-<https://www.youtube.com/watch?v=BmLk2BPR0ZE>
-
-Charles Wright - Express Yourself
-<https://www.youtube.com/watch?v=jW4VZ5J0fNQ>
-
-Orgone - I Get Lifted
-<https://www.youtube.com/watch?v=pyySCxwxJ8Y>
-
-Alice Russell - Step It Up
-<https://www.youtube.com/watch?v=vApLacePZIw>
-
-Banbarra - Shack Up
-<https://www.youtube.com/watch?v=qTu8QCL7soQ>
