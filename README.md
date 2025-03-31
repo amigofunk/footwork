@@ -320,3 +320,7 @@ The Love Unlimited Orchestra - You Gotta Case
 
 Bamboos - Transcend me
 <https://www.youtube.com/watch?v=t4BUDZTDVLc>
+
+## August
+Gil Scott-Heron - Lady Day And John Coltrane
+<https://www.youtube.com/watch?v=7aRNUsmfeck>
