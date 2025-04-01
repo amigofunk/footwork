@@ -20,6 +20,12 @@ James Brown - Soul Power
 Donny Hathaway - The Ghetto
 <https://www.youtube.com/watch?v=XealDvQwim8>
 
+Donny Hathaway - Valdez in the Country
+<https://www.youtube.com/watch?v=U-SDYJnwLY4>
+
+Gil Scott-Heron - Lady Day And John Coltrane
+<https://www.youtube.com/watch?v=7aRNUsmfeck>
+
 The Meters - Cissy Strut
 <https://www.youtube.com/watch?v=MXI5Nuz6OHg>
 
