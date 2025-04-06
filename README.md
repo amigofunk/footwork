@@ -4,14 +4,15 @@
 
 shake yo money maker -> turn it loose -> soul power
 
-we take over the song form dj and transition into eacht next song after bridge
+* we take over the song form dj and transition into each next song after bridge
 
 lady day john coltrane -> confusion
 
-transition Bb, B, Bb, B, C, break, confusion
+* transition Bb, B, Bb, B, C, break, confusion
 
 cold sweat -> aint it funky now
-transition from bridge, hit the G and go to F 
+
+* transition from bridge, hit the G and go to F 
 
 
 ## Prepare for rehearsal
