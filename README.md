@@ -13,6 +13,96 @@ lady day john coltrane -> confusion
 cold sweat -> aint it funky now
 * transition from bridge, hit the G and go to F 
 
+## Reheased songs
+
+notrth carolina
+* form: A, A, B, A, A, C, B, D, A, A, C (outro version)
+
+its real
+* Am, D style
+* bass comes in late
+
+turtle walk
+* play head twice for beginning and once for end
+* we also hit the Cs between the solos
+* start and end on C hits
+
+doin it till death
+* no longer plaing the F part, direct D all day long
+
+aint it funky now
+* phil had some ideas for a different bridge
+
+cantaloupe woman
+* head twice, solos, repeat turnaround 3 times for ending
+
+shake your money maker
+* we add bridge like in sex machine
+
+give it up turn it loose
+* bass does the ascending run during bridge which is our cue to transition
+
+stuff
+* sequence of parts A, B, A, C 
+* we get out of solos with B 
+* ending on C part 
+
+what it is
+* bass starts 4 bars then break and everybody joins for the head
+* ending with 3x turnaround, getting slow on the last one 
+
+confusion
+* just go ham and have fun :)
+
+right on
+* we keep it short, head, guitar solo, head and out 
+
+cold sweat
+* make sure to practice the hits during bridge and transition back to a part 
+
+funky miracle
+* sequence of parts just like the recording
+
+cissy strut
+* head, between the solos we play the B part, ending on long held Bb into finishing the riff
+
+lady day john coltrane
+* remember the rhythm break for the bridge
+
+valdez in the contry
+* maybe we should take care of writing down the other cords later in the song
+* otherwise we just play it like we did on rehearsal (for now) 
+
+the ghetto
+* keep it nice and loose and have fun with it
+* at some point we will do drum solo and get out with the band getting louder and louder
+* ending on THE GHETTO (Ab, Bb, Bb) 
+
+soul power
+* nothing i remember to write down
+
+tighten up
+* practice the lick between the parts
+* we start and end solos with the lick
+
+new addition: move on up
+* drums go with the bass on verse parts
+* we need to check out the bridge part as well
+
+footwork original song
+* go into bridge via Gb and into the main part via Bb
+
+# Unrehearsed or skipped songs
+
+dont joke with a hungry man
+
+you gotta case
+
+cypher black
+
+mr magic
+
+memphis soul stew
 
 
 ## Prepare for rehearsal
