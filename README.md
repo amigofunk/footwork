@@ -1,5 +1,66 @@
-# Footwork Rhythm Section Songpool
+# SETLISTS FOR 30. APRIL
 
+## Set A
+* its real
+* tighten up
+* what it is
+* stuff
+* cold sweat
+* aint it funky
+* cissy strut
+* the ghetto
+
+## Set B
+* dont joke with a hungry man
+* funky miracle
+* right on
+* footwork jam
+* north carolina
+* cantaloupe woman
+* doin it till death
+
+## Set C
+* shake your money maker
+* turn it loose
+* soul power
+* valdez in the country
+* move on up
+* turtle walk
+* cypher black
+* lady day john coltrane
+* confusion
+
+# Info to Set A
+### its real
+### tighten up
+### what it is
+### stuff
+### cold sweat
+### aint it funky
+### cissy strut
+### the ghetto
+
+# Info to Set B
+### dont joke with a hungry man
+### funky miracle
+### right on
+### footwork jam
+### north carolina
+### cantaloupe woman
+### doin it till death
+
+# Info to Set C
+### shake your money maker
+### turn it loose
+### soul power
+### valdez in the country
+### move on up
+### turtle walk
+### cypher black
+### lady day john coltrane
+### confusion
+
+==== 
 # Notes from last rehearsal
 
 ## Transition songs
