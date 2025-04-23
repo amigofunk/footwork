@@ -32,8 +32,15 @@
 
 # Info to Set A
 ### its real
+* start: we take over from DJ
+* end: not sure 
 ### tighten up
+* start: with the lick
+* end: with the lick slowing down
 ### what it is
+* start: bass only for 4 bars into break
+* form: play head twice then solos
+* end: play head once then 3x turnaround
 ### stuff
 ### cold sweat
 ### aint it funky
