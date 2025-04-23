@@ -60,7 +60,7 @@ end: play head once then 3x turnaround
 start:
 end:
 ```
-[Back to top](#SETLIST)
+[Back to top](#setlist)
 
 # Info Set B
 ### dont joke with a hungry man
@@ -70,7 +70,7 @@ end:
 ### north carolina
 ### cantaloupe woman
 ### doin it till death
-[Back to top](#SETLIST)
+[Back to top](#setlist)
 
 # Info Set C
 ### shake your money maker
@@ -82,7 +82,7 @@ end:
 ### cypher black
 ### lady day john coltrane
 ### confusion
-[Back to top](#SETLIST)
+[Back to top](#setlist)
 
 ==== 
 # Notes from last rehearsal
