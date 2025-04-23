@@ -3,49 +3,49 @@
 For 30. April at ono2
 
 ## Set A
-* [its real](#its-real) 
-* [tighten up](#tighten-up) 
-* [what it is](#what-it-is) 
-* [stuff](#stuff) 
-* [cold sweat](#cold-sweat) 
-* [aint it funky now](#aint-it-funky-now) 
-* [cissy strut](#cissy-strut) 
-* [the ghetto](#the-ghetto) 
+* [its real](#its-real) [A]
+* [tighten up](#tighten-up) [F]
+* [what it is](#what-it-is) [D]
+* [stuff](#stuff) [D]
+* [cold sweat](#cold-sweat) [D]
+* [aint it funky now](#aint-it-funky-now) [F]
+* [cissy strut](#cissy-strut) [C]
+* [the ghetto](#the-ghetto) [Bb]
 
 ## Set B
-* [dont joke with a hungry man](#dont-joke-with-a-hungry-man) 
-* [funky miracle](#funky-miracle) 
-* [right on](#right-on) 
-* [footwork jam](#footwork-jam) 
-* [north carolina](#north-carolina) 
-* [cantaloupe woman](#cantaloupe-woman) 
-* [doin it till death](#doin-it-till-death) 
+* [dont joke with a hungry man](#dont-joke-with-a-hungry-man) [G]
+* [funky miracle](#funky-miracle) [E]
+* [right on](#right-on) [D]
+* [footwork jam](#footwork-jam) [A]
+* [north carolina](#north-carolina) [E]
+* [cantaloupe woman](#cantaloupe-woman) [D]
+* [doin it till death](#doin-it-till-death) [D]
 
 ## Set C
-* [shake your money maker](#shake-your-money-maker) 
-* [turn it loose](#turn-it-loose) 
-* [soul power](#soul-power) 
-* [valdez in the country](#valdez-in-the-country) 
-* [move on up](#move-on-up) 
-* [turtle walk](#turtle-walk) 
-* [cypher black](#cypher-black) 
-* [lady day john coltrane](#lady-day-john-coltrane) 
-* [confusion](#confusion) 
+* [shake your money maker](#shake-your-money-maker) [Eb]
+* [turn it loose](#turn-it-loose) [D]
+* [soul power](#soul-power) [D]
+* [valdez in the country](#valdez-in-the-country) [G]
+* [move on up](#move-on-up) [B]
+* [turtle walk](#turtle-walk) [C]
+* [cypher black](#cypher-black) [A]
+* [lady day john coltrane](#lady-day-john-coltrane) [C]
+* [confusion](#confusion) [C]
 
 # Info Set A
 
 ### its real
 youtube: <https://www.youtube.com/watch?v=A9RMr9KuVZo>
 ```
-start: we take over from DJ
+start: we take over from dj
 end: i honestly cant remember ... pls help
 ```
 ### tighten up
 youtube: <https://www.youtube.com/watch?v=Xh1BoYdNGMc>
 ```
-* start: with the lick everybody together
-* form: between solos hit the lick once
-* end: with the lick slowing down
+start: everybody together with the lick
+form: between solos hit the lick once
+end: with the lick slowing down
 ```
 ### what it is
 youtube: <https://www.youtube.com/watch?v=8PleEvRgGOc>
@@ -57,6 +57,7 @@ end: play head once then 3x turnaround
 ### stuff
 youtube: <https://www.youtube.com/watch?v=Ow5OBldDL7c>
 ```
+key: 
 start:
 end:
 ```
