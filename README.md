@@ -1,14 +1,15 @@
-# SETLISTS FOR 30. APRIL
+# SETLIST
+## For 30. April at ONO2
 
 ## Set A
 * [its real](#its-real)
-* tighten up
-* what it is
-* stuff
-* cold sweat
-* aint it funky
-* cissy strut
-* the ghetto
+* [tighten up](#tighten-up)
+* [what it is](what-it-is)
+* [stuff](stuff)
+* [cold sweat](cold-sweat)
+* [aint it funky now](aint-it-funky-now)
+* [cissy strut](cissy-strut)
+* [the ghetto](the-ghetto)
 
 ## Set B
 * dont joke with a hungry man
@@ -30,30 +31,37 @@
 * lady day john coltrane
 * confusion
 
-# Info to Set A
+# Info Set A
 
 ### its real
 ```
 start: we take over from DJ
 end: not sure 
 ```
-[back to Set A](#Set-A)
 ### tighten up
 ```
 * start: with the lick
+* form: between solos hit the lick once
 * end: with the lick slowing down
 ```
 ### what it is
-* start: bass only for 4 bars into break
-* form: play head twice then solos
-* end: play head once then 3x turnaround
+```
+start: bass only for 4 bars into break
+form: play head twice then solos
+end: play head once then 3x turnaround
+```
 ### stuff
 ### cold sweat
-### aint it funky
+### aint it funky now
 ### cissy strut
 ### the ghetto
+```
+start:
+end:
+```
+[Back to top](#SETLIST)
 
-# Info to Set B
+# Info Set B
 ### dont joke with a hungry man
 ### funky miracle
 ### right on
@@ -61,8 +69,9 @@ end: not sure
 ### north carolina
 ### cantaloupe woman
 ### doin it till death
+[Back to top](#SETLIST)
 
-# Info to Set C
+# Info Set C
 ### shake your money maker
 ### turn it loose
 ### soul power
@@ -72,6 +81,7 @@ end: not sure
 ### cypher black
 ### lady day john coltrane
 ### confusion
+[Back to top](#SETLIST)
 
 ==== 
 # Notes from last rehearsal
