@@ -1,7 +1,7 @@
 # SETLISTS FOR 30. APRIL
 
 ## Set A
-* its real
+* [its real](#its real)
 * tighten up
 * what it is
 * stuff
@@ -33,11 +33,15 @@
 # Info to Set A
 
 ### its real
-* start: we take over from DJ
-* end: not sure 
+```
+start: we take over from DJ
+end: not sure 
+```
 ### tighten up
+```
 * start: with the lick
 * end: with the lick slowing down
+```
 ### what it is
 * start: bass only for 4 bars into break
 * form: play head twice then solos
