@@ -1,5 +1,5 @@
 # FOOTWORK RHYTHM SECTION
-## SETLIST
+# SETLIST
 For 30. April at ono2
 
 ## Set A
@@ -37,7 +37,7 @@ For 30. April at ono2
 ### its real
 youtube: <https://www.youtube.com/watch?v=A9RMr9KuVZo>
 ```
-start: we take over from dj
+start: we take this song over from dj
 end: i honestly cant remember ... pls help
 ```
 ### tighten up
@@ -57,33 +57,40 @@ end: play head once then 3x turnaround
 ### stuff
 youtube: <https://www.youtube.com/watch?v=Ow5OBldDL7c>
 ```
-key: 
 start:
 end:
 ```
 ### cold sweat
 youtube: <https://www.youtube.com/watch?v=8bztE5IbQOo>
 ```
-start:
-end:
+start: everybody together
+form: bridge will always be played 4 times
+end: we do the chromatik walks and hit the G then transition to next song in F
 ```
 ### aint it funky now
 youtube: <https://www.youtube.com/watch?v=GLBTSrD42QY>
 ```
-start:
-end:
+start: transition from last song
+form: guitar plays the head
+bridge: F, G, A ,B
+        B, A, G, F
+        F, G, A, B
+        B, A ,G ,F C
+end: with bridge on C
 ```
 ### cissy strut
 youtube: <https://www.youtube.com/watch?v=MXI5Nuz6OHg>
 ```
-start:
-end:
+start: drums count us in and we kick it off
+form: solos on A part end with B part
+end: play head once then stay one bar on Bb info finish
 ```
 ### the ghetto
 youtube: <https://www.youtube.com/watch?v=XealDvQwim8>
 ```
-start:
-end:
+start: piano kicks this one off solo
+form: after drum solo go low and bring it up for 4 bars
+end: on cue the ghetto (Ab - Bb Bb)
 ```
 [Back to top](#setlist)
 
@@ -91,13 +98,18 @@ end:
 ### dont joke with a hungry man
 youtube: <https://www.youtube.com/watch?v=YBfGfEVIS_M>
 ```
-start:
-end:
+start: we take this song over from dj
+end: i honestly cant remember ... pls help
 ```
 ### funky miracle
 youtube: <https://www.youtube.com/watch?v=xNXJKMpwJeU>
 ```
-start:
+start: bass and drums just like the recording
+form: AA B AB
+      mini solos piano guitar bass drums (only one hit before the drum solo)
+      AA B AB
+      outro (just like intro)
+      
 end:
 ```
 ### right on
