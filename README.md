@@ -3,58 +3,74 @@
 ### For 30. April at ONO2
 
 ## Set A
-* [its real](#its-real)
-* [tighten up](#tighten-up)
-* [what it is](#what-it-is)
-* [stuff](#stuff)
-* [cold sweat](#cold-sweat)
-* [aint it funky now](#aint-it-funky-now)
-* [cissy strut](#cissy-strut)
-* [the ghetto](#the-ghetto)
+* [its real](#its-real) <https://www.youtube.com/watch?v=a4ip2Ea34pI>
+* [tighten up](#tighten-up) <https://www.youtube.com/watch?v=Xh1BoYdNGMc>
+* [what it is](#what-it-is) <https://www.youtube.com/watch?v=8PleEvRgGOc>
+* [stuff](#stuff) <https://www.youtube.com/watch?v=Ow5OBldDL7c>
+* [cold sweat](#cold-sweat) <https://www.youtube.com/watch?v=8bztE5IbQOo>
+* [aint it funky now](#aint-it-funky-now) <https://www.youtube.com/watch?v=GLBTSrD42QY>
+* [cissy strut](#cissy-strut) <https://www.youtube.com/watch?v=MXI5Nuz6OHg>
+* [the ghetto](#the-ghetto) <https://www.youtube.com/watch?v=XealDvQwim8>
 
 ## Set B
-* [dont joke with a hungry man](#dont-joke-with-a-hungry-man)
-* [funky miracle](#funky-miracle)
-* [right on](#right-on)
-* [footwork jam](#footwork-jam)
-* [north carolina](#north-carolina)
-* [cantaloupe woman](#cantaloupe-woman)
-* [doin it till death](#doin-it-till-death)
+* [dont joke with a hungry man](#dont-joke-with-a-hungry-man) <https://www.youtube.com/watch?v=YBfGfEVIS_M>
+* [funky miracle](#funky-miracle) <https://www.youtube.com/watch?v=xNXJKMpwJeU>
+* [right on](#right-on) <https://www.youtube.com/watch?v=Mfezhl9r_5U>
+* [footwork jam](#footwork-jam) <https://www.youtube.com/watch?v=0iQYF7QvAdY>
+* [north carolina](#north-carolina) <https://www.youtube.com/watch?v=-w7VbmYehc8>
+* [cantaloupe woman](#cantaloupe-woman) <https://www.youtube.com/watch?v=GygQ2OC_GvI>
+* [doin it till death](#doin-it-till-death) <https://www.youtube.com/watch?v=Zu6s9t0iFSg>
 
 ## Set C
-* [shake your money maker](#shake-your-money-maker)
-* [turn it loose](#turn-it-loose)
-* [soul power](#soul-power)
-* [valdez in the country](#valdez-in-the-country)
-* [move on up](#move-on-up)
-* [turtle walk](#turtle-walk)
-* [cypher black](#cypher-black)
-* [lady day john coltrane](#lady-day-john-coltrane)
-* [confusion](#confusion)
+* [shake your money maker](#shake-your-money-maker) <https://www.youtube.com/watch?v=TsljwYOaVIk>
+* [turn it loose](#turn-it-loose) <https://www.youtube.com/watch?v=921kqkHOHDo>
+* [soul power](#soul-power) <https://www.youtube.com/watch?v=zL0qJ9VLG2A>
+* [valdez in the country](#valdez-in-the-country) <https://www.youtube.com/watch?v=U-SDYJnwLY4>
+* [move on up](#move-on-up) <https://www.youtube.com/watch?v=A9RMr9KuVZo>
+* [turtle walk](#turtle-walk) <https://www.youtube.com/watch?v=SU8Bx1XPbjE>
+* [cypher black](#cypher-black) <https://www.youtube.com/watch?v=96BMbhleykc>
+* [lady day john coltrane](#lady-day-john-coltrane) <https://www.youtube.com/watch?v=7aRNUsmfeck>
+* [confusion](#confusion) <https://www.youtube.com/watch?v=r4W8vmsKiF4>
 
 # Info Set A
 
 ### its real
 ```
 start: we take over from DJ
-end: not sure 
+end: i honestly cant remember ... pls help
 ```
 ### tighten up
 ```
-* start: with the lick
+* start: with the lick everybody together
 * form: between solos hit the lick once
 * end: with the lick slowing down
 ```
 ### what it is
 ```
 start: bass only for 4 bars into break
-form: play head twice then solos
+form: play head twice with breaks then solos without breaks
 end: play head once then 3x turnaround
 ```
 ### stuff
+```
+start:
+end:
+```
 ### cold sweat
+```
+start:
+end:
+```
 ### aint it funky now
+```
+start:
+end:
+```
 ### cissy strut
+```
+start:
+end:
+```
 ### the ghetto
 ```
 start:
@@ -64,24 +80,88 @@ end:
 
 # Info Set B
 ### dont joke with a hungry man
+```
+start:
+end:
+```
 ### funky miracle
+```
+start:
+end:
+```
 ### right on
+```
+start:
+end:
+```
 ### footwork jam
+```
+start:
+end:
+```
 ### north carolina
+```
+start:
+end:
+```
 ### cantaloupe woman
+```
+start:
+end:
+```
 ### doin it till death
+```
+start:
+end:
+```
 [Back to top](#setlist)
 
 # Info Set C
 ### shake your money maker
+```
+start:
+end:
+```
 ### turn it loose
+```
+start:
+end:
+```
 ### soul power
+```
+start:
+end:
+```
 ### valdez in the country
+```
+start:
+end:
+```
 ### move on up
+```
+start:
+end:
+```
 ### turtle walk
+```
+start:
+end:
+```
 ### cypher black
+```
+start:
+end:
+```
 ### lady day john coltrane
+```
+start:
+end:
+```
 ### confusion
+```
+start:
+end:
+```
 [Back to top](#setlist)
 
 ==== 
