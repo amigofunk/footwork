@@ -1,5 +1,6 @@
-# SETLIST
-## For 30. April at ONO2
+# FOOTWORK RHYTHM SECTION
+## SETLIST
+### For 30. April at ONO2
 
 ## Set A
 * [its real](#its-real)
@@ -12,24 +13,24 @@
 * [the ghetto](the-ghetto)
 
 ## Set B
-* dont joke with a hungry man
-* funky miracle
-* right on
-* footwork jam
-* north carolina
-* cantaloupe woman
-* doin it till death
+* [dont joke with a hungry man](dont-joke-with-a-hungry-man)
+* [funky miracle](funky-miracle)
+* [right on](right-on)
+* [footwork jam](footwork-jam)
+* [north carolina](north-carolina)
+* [cantaloupe woman](cantaloupe-woman)
+* [doin it till death](doin-it-till-death)
 
 ## Set C
-* shake your money maker
-* turn it loose
-* soul power
-* valdez in the country
-* move on up
-* turtle walk
-* cypher black
-* lady day john coltrane
-* confusion
+* [shake your money maker](shake-your-money-maker)
+* [turn it loose](turn-it-loose)
+* [soul power](soul-power)
+* [valdez in the country](valdez-in-the-country)
+* [move on up](move-on-up)
+* [turtle walk](turtle-walk)
+* [cypher black](cypher-black)
+* [lady day john coltrane](lady-day-john-coltrane)
+* [confusion](confusion)
 
 # Info Set A
 
