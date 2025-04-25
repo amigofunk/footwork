@@ -72,10 +72,7 @@ youtube: <https://www.youtube.com/watch?v=GLBTSrD42QY>
 ```
 start: transition from last song
 form: guitar plays the head
-bridge: F, G, A ,B
-        B, A, G, F
-        F, G, A, B
-        B, A ,G ,F C
+bridge: F maj scale up till C then back down to F, end on C when repeating second time
 end: with bridge on C
 ```
 ### cissy strut
@@ -105,42 +102,46 @@ end: i honestly cant remember ... pls help
 youtube: <https://www.youtube.com/watch?v=xNXJKMpwJeU>
 ```
 start: bass and drums just like the recording
-form: AA B AB
+form: AA BA CB
       mini solos piano guitar bass drums (only one hit before the drum solo)
-      AA B AB
-      outro (just like intro)
-      
-end:
+      AA BA C
+end: same as intro
 ```
 ### right on
 youtube: <https://www.youtube.com/watch?v=Mfezhl9r_5U>
 ```
-start:
-end:
+start: drums count in
+form: head, guitar solo, head
+end: we do
 ```
 ### footwork jam
 youtube: <https://www.youtube.com/watch?v=0iQYF7QvAdY>
 ```
-start:
-end:
+start: bass plays form once then everybody join
+form: part a is Am-C we go to Gb before the bridge
+bridge: F-Em and we go to Bb before returning to part a
+end: we go from Gb to F and thats it
 ```
 ### north carolina
 youtube: <https://www.youtube.com/watch?v=-w7VbmYehc8>
 ```
-start:
-end:
+start: drums count us in
+form: AAAA BB AAAA CBBD AAAA C
+end: witch C part (Db, Db, Db, D, Db)
 ```
 ### cantaloupe woman
 youtube: <https://www.youtube.com/watch?v=GygQ2OC_GvI>
 ```
-start:
-end:
+start: 4 bars drums and bass then break
+form: solos for all (with breaks)
+end: head and then andy will transition us to next song via Eb-D
 ```
 ### doin it till death
 youtube: <https://www.youtube.com/watch?v=Zu6s9t0iFSg>
 ```
-start:
-end:
+start: tranision from last song
+form: no key change like the recording, just jam it out on D
+end: i have no idea but we will stop at some point
 ```
 [Back to top](#setlist)
 
@@ -148,60 +149,76 @@ end:
 ### shake your money maker
 youtube: <https://www.youtube.com/watch?v=TsljwYOaVIk>
 ```
-start:
-end:
+start: take over from dj
+form: we jam for a while till we go to the bridge on the IV chord
+end: from the bridge go up to V chord then break
 ```
 ### turn it loose
 youtube: <https://www.youtube.com/watch?v=921kqkHOHDo>
 ```
-start:
-end:
+start: guitar introduces this song
+form: just jam then go to the IV chord for the bridge
+end: chromatic run done by bass transitions us to the next song
 ```
 ### soul power
 youtube: <https://www.youtube.com/watch?v=zL0qJ9VLG2A>
 ```
-start:
-end:
+start: transition 
+end: on V chord
 ```
 ### valdez in the country
 youtube: <https://www.youtube.com/watch?v=U-SDYJnwLY4>
 ```
-start:
-end:
+i aint writing all the changes down, just listen to the recording till you cant no more :)
 ```
 ### move on up
 youtube: <https://www.youtube.com/watch?v=A9RMr9KuVZo>
 ```
-start:
-end:
+start: guitar
+form: piano plays melody/horns on chorus, guitar on verses
+end: no idea
 ```
 ### turtle walk
 youtube: <https://www.youtube.com/watch?v=SU8Bx1XPbjE>
 ```
-start:
-end:
+start: all together with the hits
+form: play head twice, hits, solo, hits, solo and so on
+end: play head once then hits
 ```
 ### cypher black
 youtube: <https://www.youtube.com/watch?v=96BMbhleykc>
 ```
-start:
-end:
+start: piano starts, bass comes in late
+form: A, Ab, G, F
+preend: 4x (Am, G)
+end: 2x (Am, G, F, G, Am)
 ```
 ### lady day john coltrane
 youtube: <https://www.youtube.com/watch?v=7aRNUsmfeck>
 ```
-start:
-end:
+start: crums count us in 2 bars
+form: just follow the keys, remember the rhythm change at end of bridge
+end: repeat rhythmic variation and transition to next song
 ```
 ### confusion
 youtube: <https://www.youtube.com/watch?v=r4W8vmsKiF4>
 ```
-start:
-end:
+start: transition
+form: keep playing same form for solos
+end: jam out on the one chord
 ```
 [Back to top](#setlist)
 
-==== ==== ==== ==== 
+==== ==== ==== ==== ==== ==== ==== ==== 
+==== ==== ==== ==== ==== ==== ==== ==== 
+==== ==== ==== ==== ==== ==== ==== ==== 
+==== ==== ==== ==== ==== ==== ==== ==== 
+
+==== ==== ==== ==== ==== ==== ==== ==== 
+==== ==== ==== ==== ==== ==== ==== ==== 
+==== ==== ==== ==== ==== ==== ==== ==== 
+==== ==== ==== ==== ==== ==== ==== ==== 
+
 # Notes from last rehearsal
 
 ## Transition songs
