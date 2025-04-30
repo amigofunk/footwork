@@ -141,7 +141,7 @@ youtube: <https://www.youtube.com/watch?v=Zu6s9t0iFSg>
 ```
 start: tranision from last song
 form: no key change like the recording, just jam it out on D
-end: i have no idea but we will stop at some point
+end: everybody play like the guitar part, then hold Eb -> D end
 ```
 [Back to top](#setlist)
 
