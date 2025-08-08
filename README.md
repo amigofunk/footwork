@@ -1,9 +1,10 @@
 # FOOTWORK RHYTHM SECTION
 
 # SETLIST
-Wohnzimmer 14. April (treffen ab 19:00 Uhr)
+Wohnzimmer 14. April (treffen ab 18:30 Uhr)
 
 ## Opener Set
+* [cantaloupe woman](#cantaloupe-woman) [D]
 * [shake your money maker](#shake-your-money-maker) [Eb]
 * [turn it loose](#turn-it-loose) [D]
 * [soul power](#soul-power) [D]
@@ -11,8 +12,11 @@ Wohnzimmer 14. April (treffen ab 19:00 Uhr)
 * [cold sweat](#cold-sweat) [D]
 * [aint it funky now](#aint-it-funky-now) [F]
 * [confusion](#confusion) [C]
-* [manu songs](#manu) move on up, just friends, mutt [all im original key]
-* [pony](#pony) [Db] (ist auch original key)
+* [manus songs]
+* [move on up](#move-on-up) [Bm]
+* [just friends](#just-friends) [Em]
+* [mutt](#mutt) [Fm]
+* [pony](#pony) [C#m] zugabe
 
 ## Session Songs
 * [tighten up](#tighten-up) [F]
@@ -164,9 +168,30 @@ i aint writing all the changes down, just listen to the recording till you cant 
 ### move on up
 youtube: <https://www.youtube.com/watch?v=A9RMr9KuVZo>
 ```
-start: guitar
-form: piano plays melody/horns on chorus, guitar on verses
-end: no idea
+start: 
+form: 
+end: 
+```
+### just friends
+youtube: <https://www.youtube.com/watch?v=i7zsG3XFUd8>
+```
+start:
+form:
+end:
+```
+### mutt
+youtube: <https://www.youtube.com/watch?v=ejEzHE5ZMT8>
+```
+start:
+form:
+end:
+```
+### pony
+youtube: <https://www.youtube.com/watch?v=kgFcbuUeOzo>
+```
+start:
+form:
+end:
 ```
 ### turtle walk
 youtube: <https://www.youtube.com/watch?v=SU8Bx1XPbjE>
@@ -197,6 +222,7 @@ start: transition
 form: keep playing same form for solos
 end: jam out on the one chord
 ```
+
 [Back to top](#setlist)
 
 ==== ==== ==== ==== ==== ==== ==== ==== 
