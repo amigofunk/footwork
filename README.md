@@ -1,7 +1,7 @@
 # FOOTWORK RHYTHM SECTION
 
 # SETLIST
-Wohnzimmer 14. April (treffen ab 18:30 Uhr)
+Wohnzimmer 14. April (treffen ab 19:00 Uhr)
 
 ## Opener Set
 * [cantaloupe woman](#cantaloupe-woman) [D]
