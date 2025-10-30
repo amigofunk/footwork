@@ -1,7 +1,28 @@
-# FOOTWORK RHYTHM SECTION
+# FOOTWORK 
 
-# SETLIST
-Wohnzimmer 14. April (treffen ab 19:00 Uhr)
+## SONGS VON DER LEZTEN PROBE
+
+* its real
+* tighten up
+* what it is 
+* stuff
+* cold sweat -> aint it funky
+* cissy strut
+* the ghetto
+* funky miracle
+* right on
+* north carolina
+* cantaloupe woman -> donin it till death
+* get up -> soul power -> turn it loose
+* valdez in the country
+* move on up
+* turtle walk
+* cypher black
+* confusion -> lady day
+
+# GIG
+
+# SONGS
 
 ## Opener Set
 * [cantaloupe woman](#cantaloupe-woman) [D]
